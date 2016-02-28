@@ -1,2 +1,3 @@
 # Hello-World
 My first GitHub project
+I am new to GitHub, and thinking to contribute some effort to public...
